@@ -1,40 +1,20 @@
-
 The factorial of 4 is 24
-
 The factorial of 15 is 1307674368000
-
 The factorial of 0 is 1
-
 The factorial of 22 is -1250660718674968576
-
-The value 101 is prime
-
-The value 29 is prime
-
-The value 100 is not prime
-
-The value 163 is prime
-
-The value 1001 is not prime
-
+The value of 101 is prime
+The value of 29 is prime
+The value of 100 is not prime
+The value of 163 is prime
+The value of 1001 is not prime
 The string abccba is a palindrome
-
 The string d is a palindrome
-
 The string tacocat is a palindrome
-
 The string goroog is not a palindrome
-
-The sum of the values: 1 2 3 4 5 6 7 8 9 10  is 55
-
-The sum of the values: 5  is 5
-
-The sum of the values: 5 6 7  is 18
-
+The sum of values: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10] is 55
+The sum of values: [5] is 5
+The sum of values: [5, 6, 7] is 18
 The string thestring in reverse is: gnirtseht
-
 The string abcdef in reverse is: fedcba
-
 The string 123456 in reverse is: 654321
-
 The string d in reverse is: d
