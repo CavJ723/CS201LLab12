@@ -11,6 +11,9 @@ public class Recursion {
         return value * factorialR(value - 1);
     }
     
+
+    // PRE: accepts a string, left index, and right index
+    // POST: returns true if the string is a palindrome, false otherwise
     public static boolean palindromeR(String str, int left, int right){
         // Base case 1: left >= right
         if (left >= right) {
